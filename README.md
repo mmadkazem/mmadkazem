@@ -18,4 +18,6 @@
 ### 🌟 Featured Repositories
 [![BazarChe](https://github-readme-stats.vercel.app/api/pin/?username=mmadkazem&repo=BazarChe&theme=radical)](https://github.com/mmadkazem/BazarChe)
 
+[![ShopLand](https://github-readme-stats.vercel.app/api/pin/?username=mmadkazem&repo=ShopLand&theme=radical)](https://github.com/mmadkazem/ShopLand)
+
 Feel free to explore and connect with me on any platform! 🚀
