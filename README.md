@@ -16,6 +16,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/mmadkazem)
 
 ### 🌟 Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmadkazem&repo=your-repo&theme=radical)](https://github.com/mmadkazem/BazarChe)
+[![BazarChe](https://github-readme-stats.vercel.app/api/pin/?username=mmadkazem&repo=BazarChe&theme=radical)](https://github.com/mmadkazem/BazarChe)
 
 Feel free to explore and connect with me on any platform! 🚀
