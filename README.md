@@ -15,11 +15,7 @@
 ### 🌍 Find Me Around The Web
 - 💼 [LinkedIn](https://www.linkedin.com/in/mmadkazem)
 
-### 🏆 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmadkazem&show_icons=true&hide_border=true&count_private=true&theme=radical)
-
 ### 🌟 Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmadkazem&repo=your-repo&theme=radical)](https://github.com/mmadkazem/your-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmadkazem&repo=your-repo&theme=radical)](https://github.com/mmadkazem/BazarChe)
 
 Feel free to explore and connect with me on any platform! 🚀
