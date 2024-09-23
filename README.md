@@ -1,4 +1,2 @@
 # 👋 Hi, I’m Mohamad Kazem or @mmadkazem
- 🌱 a .NET adventurer and a .I’m interested in teamwork and the open source world.
-  On my GitHub, you'll find a diverse range of projects that showcase my skills and interests.
-  If you want to know more about me, visit my linkedin: [@mmadkazem](https://linkedin.com/in/mmadkazem)
+ 🌱 As a passionate .NET enthusiast and an advocate for teamwork and open source collaboration, I’m always exploring new ways to innovate and contribute. On my GitHub, you’ll discover a diverse array of projects that reflect my skills, curiosity, and love for problem-solving. If you’d like to connect or learn more about my journey, feel free to visit my LinkedIn: [@mmadkazem](https://linkedin.com/in/mmadkazem)
