@@ -6,12 +6,6 @@
 - Contributing to open-source projects.
 - Collaborating with talented developers to create impactful software.
 
-### 🔧 Technologies & Tools
-- **Languages**: C#, SQL
-- **Frameworks**: .NET Core, ASP.NET, Entity Framework
-- **Tools**: Git, Docker
-- **Databases**: SQL Server, PostgreSQL, MongoDb, Redis, MinIo
-
 ### 🌍 Find Me Around The Web
 - 💼 [LinkedIn](https://www.linkedin.com/in/mmadkazem)
 
