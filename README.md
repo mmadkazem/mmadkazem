@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamad+Kazem+or+@mmadkazem!;" />
+</h1>
+
 # 👋 Hi, I’m Mohamad Kazem or @mmadkazem
  🌱 As a passionate .NET enthusiast and an advocate for teamwork and open source collaboration, I’m always exploring new ways to innovate and contribute. On my GitHub, you’ll discover a diverse array of projects that reflect my skills, curiosity, and love for problem-solving. If you’d like to connect or learn more about my journey, feel free to visit my LinkedIn: [@mmadkazem](https://linkedin.com/in/mmadkazem)
 
